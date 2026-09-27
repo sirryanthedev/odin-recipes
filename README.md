@@ -1,3 +1,3 @@
 This is a small project from odin.
 
-[Link](sirryanthedev.github.io/odin-recipes)
+[Link](https://sirryanthedev.github.io/odin-recipes/)
